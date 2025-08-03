@@ -1,8 +1,9 @@
 # Hostel_Mangement-System
-# Hostel Management System
+
 
 ## 🎯 Objective
-A full-stack system for managing hostel-related activities such as student applications, complaints, and approvals by wardens/admins.
+A web-based hostel management system allowing students to submit complaints and applications, wardens to review and act on them, and admins to manage all users and hostel-related records. Features include role-based dashboards, status tracking, and Firebase-authenticated login.
+
 
 ## 🛠 Technologies Used
 - React (Frontend)
@@ -17,7 +18,4 @@ A full-stack system for managing hostel-related activities such as student appli
 3. Start backend: `npm run server`  
 4. Start frontend: `npm start`
 
-## 🖼 Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Student View](screenshots/student.png)
 
